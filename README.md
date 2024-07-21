@@ -11,7 +11,7 @@ Welcome to the Topics in Generative AI Workshop repository!  This repository con
 |------------|-------------|-----------------------------------------|-----------------------------------------------|
 | 20-07-2024 | Lab 1 | Introduction to Machine Learning| [Open Lab 1](https://colab.research.google.com/github/dhakehruturaj/Topics-in-Generative-AI/blob/main/lab_session_ml.ipynb) |
 | 21-07-2024 | Lab 2 | Classification and Clustering |[Open Lab 2](https://colab.research.google.com/github/dhakehruturaj/Topics-in-Generative-AI/blob/main/Lab_Session_2_Classification_and_Clustering.ipynb) |
-| 22-07-2024 | Lab 3       | RNN and Sequencing                      | Stay Tuned |
+| 22-07-2024 | Lab 3 | RNN and Sequencing | [Open Lab 3](https://colab.research.google.com/github/dhakehruturaj/Topics-in-Generative-AI/blob/main/Lab_Session_3__RNN_and_Sequencing.ipynb) |
 | 23-07-2024 | Lab 4       | GAN                                     | Stay Tuned |
 | 24-07-2024 | Lab 5       | Exploring Diffusion Models              | Stay Tuned |
 
